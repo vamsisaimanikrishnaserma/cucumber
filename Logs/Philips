@@ -1,0 +1,14 @@
+07-03-2022 18:43:55 INFO  BaseClass:19 - Gillette as opened
+07-03-2022 18:43:55 INFO  HomePage:19 - Clicking on the styling link in footer
+07-03-2022 18:43:57 INFO  HomePage:19 - styling page as opened
+07-03-2022 18:43:57 INFO  HomePage:19 - Checking if styling artical contains Facial Hair Styles: The Anchor Beard
+07-03-2022 18:43:57 INFO  HomePage:19 - Facial Hair Styles: The Anchor Beard is in the styling artical
+07-03-2022 18:44:02 INFO  BaseClass:19 - Gillette as opened
+07-03-2022 18:44:02 INFO  HomePage:19 - Hovering on 'Products' and clicking on 'MOCH3'
+07-03-2022 18:44:03 INFO  HomePage:19 - Clicking page as opened
+07-03-2022 18:44:03 INFO  HomePage:19 - Checking if our porducts list contains Gillette MACH3 Turbo
+07-03-2022 18:44:03 INFO  HomePage:19 - Gillette MACH3 Turbo is in the 'our products' list
+07-03-2022 18:44:07 INFO  BaseClass:19 - Gillette as opened
+07-03-2022 18:44:07 INFO  HomePage:19 - Searching for razor
+07-03-2022 18:44:09 INFO  ProductPage:19 - Checking if the name of the search heading contains 'razor'
+07-03-2022 18:44:09 INFO  ProductPage:19 - The name of the search heading contains 'razor'
